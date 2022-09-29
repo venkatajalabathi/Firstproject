@@ -1,3 +1,3 @@
-a=2o
+a=2ooo
 b=2
 print(2+b)
